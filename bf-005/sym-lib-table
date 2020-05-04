@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bf)(type Legacy)(uri ${BF_LIBRARY}/bf.lib)(options "")(descr ""))
+  (lib (name bf-005-rescue)(type Legacy)(uri ${KIPRJMOD}/bf-005-rescue.lib)(options "")(descr ""))
+)
