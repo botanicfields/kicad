@@ -1,2 +1,2 @@
 # kicad
-kicad libraries and footprints
+Additional libraries and footprints of Kicad, for the BotanicFields projects.
